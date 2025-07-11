@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# Usage: ./log.sh "Description of action" "https://link"
 cd ~/Documents/execution-log/
+echo "Usage: ./log.sh "Description of action" "https://link""
 today=$(date '+%Y-%m-%d')
 printf "| %s | %s | %s |\n" "$today" "$1" "$2" >> execution-log.md
 git add -A
