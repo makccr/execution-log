@@ -43,3 +43,4 @@ If no action logged, apply penalty immediately.
 | 2025-07-13 | Wrote an Essay | https://makc.co/essays/2025-07-14-the-art-of-virtue/ |
 | 2025-07-14 | An financial habit breaker webapp | https://wonder8.netlify.app/ |
 | 2025-07-15 | Dark mode for web app | https://wonder8.app |
+| 2025-07-16 | New essay | https://makc.co/essays/2025-07-17-barge-haulers |
