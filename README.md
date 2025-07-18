@@ -45,3 +45,4 @@ If no action logged, apply penalty immediately.
 | 2025-07-15 | Dark mode for web app | https://wonder8.app |
 | 2025-07-16 | New essay | https://makc.co/essays/2025-07-17-barge-haulers |
 | 2025-07-17 | Gotta do something other than an essay 2morrow | https://makc.co/essays/2025-07-18-1-million-dollar-spending-spree/ |
+| 2025-07-18 | A sexy new videos page for my site | https://makc.co/videos/ |
