@@ -47,3 +47,5 @@ If no action logged, apply penalty immediately.
 | 2025-07-17 | Gotta do something other than an essay 2morrow | https://makc.co/essays/2025-07-18-1-million-dollar-spending-spree/ |
 | 2025-07-18 | A sexy new videos page for my site | https://makc.co/videos/ |
 | 2025-07-19 | Made a video | https://youtu.be/FdKy0F0sVRw |
+| 2025-07-20 | Published a poem | https://makc.co/essays/2025-07-21-bad-mans-ballad/ | 
+| 2025-07-21 | A thought piece essay | https://makc.co/essays/2025-07-22-consequences/ |
