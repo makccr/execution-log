@@ -49,3 +49,4 @@ If no action logged, apply penalty immediately.
 | 2025-07-19 | Made a video | https://youtu.be/FdKy0F0sVRw |
 | 2025-07-20 | Published a poem | https://makc.co/essays/2025-07-21-bad-mans-ballad/ | 
 | 2025-07-21 | A thought piece essay | https://makc.co/essays/2025-07-22-consequences/ |
+| 2025-07-22 | Made a YT video | https://youtu.be/rGs2Z8yyjwc |
